@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidacaoDeEmail", "ValidacaoDeEmail\ValidacaoDeEmail.csproj", "{4FD6FD58-85CC-43FB-A1BA-D675C3515F09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidacaoUnitTest", "ValidacaoUnitTest\ValidacaoUnitTest.csproj", "{19189FED-9CA7-48DD-BF8B-9F431653F38E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FD6FD58-85CC-43FB-A1BA-D675C3515F09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD6FD58-85CC-43FB-A1BA-D675C3515F09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD6FD58-85CC-43FB-A1BA-D675C3515F09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD6FD58-85CC-43FB-A1BA-D675C3515F09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19189FED-9CA7-48DD-BF8B-9F431653F38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19189FED-9CA7-48DD-BF8B-9F431653F38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19189FED-9CA7-48DD-BF8B-9F431653F38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19189FED-9CA7-48DD-BF8B-9F431653F38E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {000E3F84-E350-4757-9A87-51311E6A274A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\bin\Debug\net8.0\GerenciamentoDeInventario.exe
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\bin\Debug\net8.0\GerenciamentoDeInventario.deps.json
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\bin\Debug\net8.0\GerenciamentoDeInventario.runtimeconfig.json
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\bin\Debug\net8.0\GerenciamentoDeInventario.dll
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\bin\Debug\net8.0\GerenciamentoDeInventario.pdb
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\obj\Debug\net8.0\GerenciamentoDeInventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\obj\Debug\net8.0\GerenciamentoDeInventario.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\obj\Debug\net8.0\GerenciamentoDeInventario.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\obj\Debug\net8.0\GerenciamentoDeInventario.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\obj\Debug\net8.0\GerenciamentoDeInventario.dll
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\obj\Debug\net8.0\refint\GerenciamentoDeInventario.dll
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\obj\Debug\net8.0\GerenciamentoDeInventario.pdb
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\obj\Debug\net8.0\GerenciamentoDeInventario.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\GerenciamentoDeInventario\GerenciamentoDeInventario\obj\Debug\net8.0\ref\GerenciamentoDeInventario.dll

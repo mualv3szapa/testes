@@ -1,0 +1,14 @@
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\bin\Debug\net8.0\ConversaoTemp.exe
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\bin\Debug\net8.0\ConversaoTemp.deps.json
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\bin\Debug\net8.0\ConversaoTemp.runtimeconfig.json
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\bin\Debug\net8.0\ConversaoTemp.dll
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\bin\Debug\net8.0\ConversaoTemp.pdb
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\obj\Debug\net8.0\ConversaoTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\obj\Debug\net8.0\ConversaoTemp.AssemblyInfoInputs.cache
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\obj\Debug\net8.0\ConversaoTemp.AssemblyInfo.cs
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\obj\Debug\net8.0\ConversaoTemp.csproj.CoreCompileInputs.cache
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\obj\Debug\net8.0\ConversaoTemp.dll
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\obj\Debug\net8.0\refint\ConversaoTemp.dll
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\obj\Debug\net8.0\ConversaoTemp.pdb
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\obj\Debug\net8.0\ConversaoTemp.genruntimeconfig.cache
+C:\Users\54750759805\Desktop\ConvercaoTemp\ConvercaoTemp\obj\Debug\net8.0\ref\ConversaoTemp.dll
